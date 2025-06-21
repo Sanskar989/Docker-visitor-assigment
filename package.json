@@ -1,0 +1,13 @@
+{
+  "name": "visitor-app",
+  "version": "1.0.0",
+  "description": "A simple visitor counter app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.16.1",
+    "redis": "2.8.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
